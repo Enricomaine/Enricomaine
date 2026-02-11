@@ -87,24 +87,6 @@ I’m a backend-focused full-stack engineer from Brazil, specializing in buildin
 
 ---
 
-## Selected Projects
-
-- **URL Shortener** – Ruby on Rails + PostgreSQL  
-  RESTful APIs, clean data modeling, and performance-oriented query design.  
-  🔗 https://github.com/Enricomaine/url_shortener  
-
-- **Sorvo** – Marketplace & order management backend (Ruby on Rails)  
-  - Auth and password flows  
-  - Business rules (statuses, discounts, tiered pricing)  
-  - Optimized queries and background jobs  
-  - Validations, error handling, pagination  
-  - OpenAPI documentation  
-  - RSpec test suite  
-  - Docker-based CI/CD pipeline  
-  🔗 https://github.com/Enricomaine/Sorvo  
-
----
-
 ## Experience
 
 **Full-stack Engineer – Ema Software**  
