@@ -8,6 +8,32 @@ I’m a backend-focused full-stack engineer from Brazil, specializing in buildin
 
 ---
 
+## Tech Overview
+
+### Languages & Frameworks
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+### Databases & Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Infra
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
 ## What I Do
 
 - **Backend engineering:** Business logic, RESTful APIs, database design, and background processing.
@@ -17,7 +43,7 @@ I’m a backend-focused full-stack engineer from Brazil, specializing in buildin
 
 ---
 
-## Highlights
+## Impact & Highlights
 
 - Cut a **critical item price update job** from ~6 hours to ~5 seconds by refactoring PostgreSQL queries and batch logic, massively improving daily operations.
 - Optimized **high-traffic APIs** (50k+ requests/day) in Rails by tuning queries with `EXPLAIN ANALYZE`, B-tree and partial indexes, and SQL refactors, reducing response times from ~900ms to **<500ms**.
@@ -26,39 +52,48 @@ I’m a backend-focused full-stack engineer from Brazil, specializing in buildin
 
 ---
 
-## Tech Stack
+## GitHub Stats & Activity 📊
 
-**Backend & APIs**
+<div align="center">
 
-- Ruby on Rails, Node.js  
-- RESTful APIs, JSON, system integration  
-- Background jobs (Sidekiq), ETL pipelines, backend automation  
+<!-- Main stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Enricomaine&show_icons=true&theme=dracula&hide_border=true&count_private=true" 
+  alt="Enrico's GitHub stats" 
+  height="160"
+/>
 
-**Databases**
+<!-- Top languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enricomaine&layout=compact&theme=dracula&hide_border=true&langs_count=6" 
+  alt="Top languages" 
+  height="160"
+/>
 
-- PostgreSQL, Redis  
-- Data modeling, indexing, query optimization  
-- Database design, ACID transactions, constraints  
+<!-- Streak graph -->
+<img 
+  src="https://streak-stats.demolab.com?user=Enricomaine&theme=dracula&hide_border=true" 
+  alt="GitHub Streak" 
+  height="160"
+/>
 
-**Dev & Infra**
+<!-- Activity graph -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Enricomaine&theme=dracula&hide_border=true" 
+  alt="GitHub Activity Graph" 
+/>
 
-- Docker, Git, Linux  
-- CI/CD, Docker-based workflows  
-
-**Frontend**
-
-- React (for supporting frontends when needed)
+</div>
 
 ---
 
 ## Selected Projects
 
 - **URL Shortener** – Ruby on Rails + PostgreSQL  
-  Focused on RESTful APIs, clean data modeling, and performance-oriented query design.  
+  RESTful APIs, clean data modeling, and performance-oriented query design.  
   🔗 https://github.com/Enricomaine/url_shortener  
 
-- **Sorvo** – Marketplace & order management backend  
-  Ruby on Rails backend with:
+- **Sorvo** – Marketplace & order management backend (Ruby on Rails)  
   - Auth and password flows  
   - Business rules (statuses, discounts, tiered pricing)  
   - Optimized queries and background jobs  
@@ -98,10 +133,6 @@ Relevant areas: Databases, Distributed Computing, Cloud Computing, Natural Langu
 
 ## Get in Touch
 
-- Email: enricomaine@gmail.com  
-- GitHub: https://github.com/Enricomaine  
-- LinkedIn: https://www.linkedin.com/in/enrico-l-mainenti  
-
----
-
-If you’d like, I can also create a shorter, more minimal version or add a “Pinned skills”/badge-style section tailored to how you want recruiters to see your profile.
+- 📧 Email: enricomaine@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/Enricomaine  
+- 💼 LinkedIn: https://www.linkedin.com/in/enrico-l-mainenti  
